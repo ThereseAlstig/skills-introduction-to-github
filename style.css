@@ -1,0 +1,19 @@
+/** Not allowed to change this initial CSS code **/
+body {
+	background: url(../img/12_col.gif) center top repeat-y;
+	background-size: 90%;
+}
+/*************************************************/
+
+#container {
+	border: 1px solid #333;
+	width: 89%;
+	margin: 0 auto;
+
+	display: grid;
+}
+
+section {
+	min-height: 100px;
+	border: 1px solid #333;
+}
